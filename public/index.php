@@ -26,6 +26,7 @@
       </style>
    </head>
    <body>
+      <a href="https://github.com/Harry-Torry/tellmetheport/edit/master/public/index.php" target="_BLANK">Want to add a new port?</a>
       <table>
          <tr>
             <th>App</th>
