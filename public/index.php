@@ -44,6 +44,10 @@
             <td><a href=http://127.0.0.1:32400/web/index.html" target="_blank">Plex</a></td>
             <td>32400</td>
          </tr>
+         <tr>
+            <td><a href=http://127.0.0.1:6789/web/index.html" target="_blank">NZBGet</a></td>
+            <td>6789</td>
+         </tr>
       </table>
    </body>
 </html>
