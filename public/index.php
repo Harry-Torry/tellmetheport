@@ -37,7 +37,7 @@ tr:nth-child(even) {
   </tr>
     <tr><td><a href="http://localhost:7878" target="_blank">Radarr</a></td><td>7878</td><td></tr>
   <tr><td><a href="http://localhost:8989" target="_blank">Sonarr</a></td><td>8989</td></tr>
-  <tr><a href=http://127.0.0.1:32400/web/index.html" target="_blank">Plex</a><td>32400</td></tr>
+    <tr><td><a href=http://127.0.0.1:32400/web/index.html" target="_blank">Plex</a></td><td>32400</td></tr>
   </table>
   </body>
 </html>
